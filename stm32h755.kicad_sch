@@ -7628,7 +7628,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 244.8052 394.97 0)
 			(effects
 				(font
@@ -8426,7 +8426,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 36.5252 365.76 0)
 			(effects
 				(font
@@ -8702,7 +8702,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_01005_0402Metric"
 			(at 346.4052 394.97 0)
 			(effects
 				(font
@@ -8912,7 +8912,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_01005_0402Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 322.2752 396.24 0)
 			(effects
 				(font
@@ -8982,7 +8982,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 359.1052 394.97 0)
 			(effects
 				(font
@@ -9192,7 +9192,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_01005_0402Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 300.6852 396.24 0)
 			(effects
 				(font
@@ -9809,7 +9809,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_01005_0402Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 312.1152 396.24 0)
 			(effects
 				(font
@@ -9919,73 +9919,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+3V3")
-		(at 361.95 386.08 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "dbb0876e-79e3-4d44-b656-7ec954aa2b09")
-		(property "Reference" "#PWR011"
-			(at 358.14 386.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 365.76 386.0799 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 361.95 386.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 361.95 386.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 361.95 386.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "16572ea0-9239-4f3c-8c2e-eaf10d21fedd")
-		)
-		(instances
-			(project "stm32h755"
-				(path "/63df81d5-7d5d-484c-b8b8-55609d33e66e"
-					(reference "#PWR011")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 255.27 391.16 0)
 		(unit 1)
@@ -10013,7 +9946,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 256.2352 394.97 0)
 			(effects
 				(font
@@ -10356,7 +10289,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_01005_0402Metric"
 			(at 23.8252 365.76 0)
 			(effects
 				(font
@@ -10426,7 +10359,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 266.3952 394.97 0)
 			(effects
 				(font
